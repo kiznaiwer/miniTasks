@@ -1,4 +1,4 @@
-/*
+package task1/*
     Реализуйте класс Shape и подклассы Circle/Rectangle/Triangle, посчитайте
     общую площадь через полиморфизм
  */
